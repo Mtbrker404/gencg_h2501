@@ -199,3 +199,7 @@ The assignments in this course are primarily intended to be executed by individu
 - Describe who did what. Written reports for collaborative projects should describe how your effort was distributed.
 - Only known collaborators. Your project collaborator, if you have one, must be in this class. You may not collaborate with people from outside the course (e.g. your housemate).
 - Avoid co-dependency. You may not collaborate with the same person (i.e. submit an assignment jointly) on more than two projects.
+
+
+
+# Begining of Journal 

@@ -48,6 +48,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 # Begining of Journal 
 
+----23/09/2025---- 
+
 Starting the journal is always a difficult task, so we have decided to skip it. Yes, I said we, I was talking about the journal and I, WE have come to the conclusion that anyway the gold in journals is always a couple of pages deep, so why bore you with a "artisty philosiphical hook".
 
 Also here is the first generative grphics that I created : 
@@ -57,6 +59,8 @@ Also here is the first generative grphics that I created :
 <iframe src="https://editor.p5js.org/matthew.brker.404/full/7HBD59TUz" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
 
+
+----30/09/2025----
 In 1700's there were only 700 Millions humans roaming this stinky rock, in 1950's there were 2 Billion humans alive. So how come only 75 years later we approching 10 Billion humans soon so fast ?
 
 Multiplication is scary 
@@ -64,4 +68,13 @@ Multiplication is scary
 {% raw %}
 <iframe src="https://editor.p5js.org/matthew.brker.404/full/vCcoOj-O3" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
+
+----07/10/2025----
+
+Tic..toc...tic..toc
+
+{% raw %}
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/PTlszmXZe" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}
+
 

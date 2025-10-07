@@ -56,3 +56,12 @@ Also here is the first generative grphics that I created :
 {% raw %}
 <iframe src="https://editor.p5js.org/matthew.brker.404/full/7HBD59TUz" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
+
+In 1700's there were only 700 Millions humans roaming this stinky rock, in 1950's there were 2 Billion humans alive. So how come only 75 years later we approching 10 Billion humans soon so fast ?
+
+Multiplication is scary 
+
+{% raw %}
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/vCcoOj-O3"width="100%" height="450" frameborder="yes"></iframe>
+{% endraw %}
+

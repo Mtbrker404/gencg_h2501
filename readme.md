@@ -61,6 +61,7 @@ Also here is the first generative grphics that I created :
 
 
 ----30/09/2025----
+
 In 1700's there were only 700 Millions humans roaming this stinky rock, in 1950's there were 2 Billion humans alive. So how come only 75 years later we approching 10 Billion humans soon so fast ?
 
 Multiplication is scary 

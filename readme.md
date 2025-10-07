@@ -203,3 +203,8 @@ The assignments in this course are primarily intended to be executed by individu
 
 
 # Begining of Journal 
+
+
+{% raw %}
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/7HBD59TUz" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}

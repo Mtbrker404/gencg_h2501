@@ -45,3 +45,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * Lorem ipsum dolor sit amet
 * Consetetur sadipscing elitr, sed diam nonumy.
 * At vero eos et accusam et justo duo dolores et ea rebum. 
+
+# Begining of Journal 
+
+
+{% raw %}
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/7HBD59TUz" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}

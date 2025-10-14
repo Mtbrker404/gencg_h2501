@@ -39,3 +39,23 @@ Tallking about time, its the only thing thats guarteed to kill you, so definitel
 {% raw %}
 <iframe src="https://editor.p5js.org/matthew.brker.404/full/WC39tKvZi" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
+
+----Week 04----
+
+Prototype
+
+{% raw %}
+<<iframe src="https://editor.p5js.org/matthew.brker.404/full/a5eHthpdF" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}
+
+Prototype 2
+
+{% raw %}
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/67gM0NTDm" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}
+
+Final product 
+
+{% raw %}
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/Q-LbHXTNM" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}

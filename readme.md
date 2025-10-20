@@ -42,19 +42,19 @@ Tallking about time, its the only thing thats guarteed to kill you, so definitel
 
 ----Week 05----
 
-Prototype
+Prototype 1 = This is the first try of making a drawing machine, Simply scroll the mouse wheel up to create the flower and down to undo the drawing.
 
 {% raw %}
 <iframe src="https://editor.p5js.org/matthew.brker.404/full/a5eHthpdF" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
 
-Prototype 2
+Prototype 2 = Here the goal was to add beauty and satistfaction to the drawing machine, using a transition of colours to express the growth of the flower.
 
 {% raw %}
 <iframe src="https://editor.p5js.org/matthew.brker.404/full/67gM0NTDm" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
 
-Final product 
+Final product = The final product was the idea to give the user freedom of expression when scrolling and not being limited when the maximum amount of petals were reached. Allowing the user to scroll as much as they want. 
 
 {% raw %}
 <iframe src="https://editor.p5js.org/matthew.brker.404/full/Q-LbHXTNM" width="100%" height="450" frameborder="no"></iframe>

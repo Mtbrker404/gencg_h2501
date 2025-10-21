@@ -69,3 +69,13 @@ The Dancing Lavenders
 {% raw %}
 <iframe src="https://editor.p5js.org/matthew.brker.404/full/S9XNUikAV" width="100%" height="450" frameborder="no"></iframe> 
 {% endraw %}
+
+
+
+To continue on the previous clocks, I noticed none of them actually showed the time, which to my knowledge is the main reason of a clock. 
+Here is a reimagined version of the clock. But instead of making the clock hands do all the work, I thought it would more relaxing for him if he always indicated the time without lifting a finger. 
+
+
+{% raw %}
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/Wpm8lrCna" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}

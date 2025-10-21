@@ -59,3 +59,13 @@ Final product = The final product was the idea to give the user freedom of expre
 {% raw %}
 <iframe src="https://editor.p5js.org/matthew.brker.404/full/Q-LbHXTNM" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
+
+
+---Week 06---
+
+After noticing that I was missing a gird like layout for the journal from week 2, I decided to experiment with a kind of hypnotic grid like creation. Using as inspiration from the Orbital Control from j5.ps I managed to create what I call :
+
+The Dancing Lavenders
+{% raw %}
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/S9XNUikAV" width="100%" height="450" frameborder="no"></iframe> 
+{% endraw %}

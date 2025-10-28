@@ -5,7 +5,7 @@
 
 Starting the journal is always a difficult task, so we have decided to skip it. Yes, I said we, I was talking about the journal and I, WE have come to the conclusion that anyway the gold in journals is always a couple of pages deep, so why bore you with a "artisty philosiphical hook".
 
-Also here is the first generative grphics that I created : 
+Also here is the first generative graphics that I created : 
 
 
 {% raw %}
@@ -79,3 +79,31 @@ Here is a reimagined version of the clock. But instead of making the clock hands
 {% raw %}
 <iframe src="https://editor.p5js.org/matthew.brker.404/full/Wpm8lrCna" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
+
+
+---Week 07---
+
+Pareidolia... why is it that every chance our brain gets to create a face it does ? Is it our fear on loneliness ? Or simply a habit of humanising things ? 
+
+Maybe somethings are best left unknown. Eitherway, my most impactfull concept of pareidolia is seeing faces on cars everywhere I go, to the point where I can even imagine what kind of personality they would have. 
+
+Below are 3 Iterations of me trying to represent that with the front of a car.
+
+Prototype 1:
+
+{% raw %}
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/h-R9asMfv" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}
+
+Prototype 2: 
+
+{% raw %}
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/kiXS8YANm" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}
+
+End Result : 
+
+{% raw %}
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/aLS8qftfB" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}
+

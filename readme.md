@@ -16,7 +16,7 @@ Also here is the first generative graphics that I created :
 ----Week 02----
 
 
-In 1700's there were only 700 Millions humans roaming this stinky rock, in 1950's there were 2 Billion humans alive. So how come only 75 years later we approching 10 Billion humans soon so fast ?
+In 1700's there were only 700 Millions humans roaming this rock, in 1950's there were 2 Billion humans alive. So how come only 75 years later we approching 10 Billion humans soon so fast ?
 
 Multiplication is scary 
 
@@ -26,7 +26,7 @@ Multiplication is scary
 
 ----Week 03----
 
-Tic..toc...tic..toc
+Looking at a clock is pretty boring, in fact I'd argue that looking at a clock tic away makes time go even slower. So here is a version that that hopefully makes it go faster, thanks to an added component to look at.
 
 {% raw %}
 <iframe src="https://editor.p5js.org/matthew.brker.404/full/PTlszmXZe" width="100%" height="450" frameborder="no"></iframe>
@@ -83,7 +83,7 @@ Here is a reimagined version of the clock. But instead of making the clock hands
 
 ---Week 07---
 
-Pareidolia... why is it that every chance our brain gets to create a face it does ? Is it our fear on loneliness ? Or simply a habit of humanising things ? 
+Pareidolia... why is it that every chance our brain gets to create a face it does ? Is it our fear of loneliness ? Or simply a habit of humanising things ? 
 
 Maybe somethings are best left unknown. Eitherway, my most impactfull concept of pareidolia is seeing faces on cars everywhere I go, to the point where I can even imagine what kind of personality they would have. 
 

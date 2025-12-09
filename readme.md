@@ -109,3 +109,17 @@ End Result :
 
 ---- Week 8 - Pixels ----
 
+What's the diffrence between a series of pixels acorss a screen and a stroke of paint on a canvas ?
+
+Pixels behave. Paint strokes express. 
+
+No but more seriously, to the naked uninformed eye they are very similar, hence my idea to confuse the two. 
+
+Here are some paint strokes expressed by pixels, or is it pixles expressed as paint strokes ? 
+
+
+{% raw %}
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/wISQKP1fn" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}
+
+

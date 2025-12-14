@@ -113,7 +113,7 @@ What's the diffrence between a series of pixels acorss a screen and a stroke of 
 
 Pixels behave. Paint strokes express. 
 
-No but more seriously, to the naked uninformed eye they are very similar, hence my idea to confuse the two. 
+No but more seriously, to the naked uninformed eye they are very similar, hence my idea to confuse the two. Please click on the canvas below and press space bar to interact.
 
 Here are some paint strokes expressed by pixels, or is it pixles expressed as paint strokes ? 
 

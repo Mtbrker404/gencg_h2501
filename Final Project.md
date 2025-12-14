@@ -29,8 +29,26 @@ Once the assets folder was all setup properly, we could now call these images to
 <iframe src="https://editor.p5js.org/matthew.brker.404/full/UiWZ6RaDA" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
 
-Finally we have a working prototype that is starting to ressemeble the masterpiece of Arcimboldo. First thing to do is tweak the overkill of fruits used of the eyebrows and mouth. 
+Finally we have a working prototype that is starting to ressemeble the masterpiece of Arcimboldo. First thing to do is tweak the overkill of fruits used of the eyebrows and mouth. For the banana we can do this by reducing the amount of times the image is used, increasing the size, centering the banana above the eye and most importantly, rotating it 180 degrees. For the grapes I have the idea to have two facing each other to form some kind of lips. 
 
 {% raw %}
 <iframe src="https://editor.p5js.org/matthew.brker.404/full/6sKlWH1x8" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
+
+Now that we can succefully create a very simple fruit face with the code that we have. Curiosity took over and I started to wonder if I could apply this code to a face tracking system. I had a look at some examples online and determined that the most important aspect would be to successfull be able to outline the face. This was achived after many failed attemps due to my ignorance of using the "index.html" to make proper use of ml5.js which is essential for facial traking. Once that was done, I thought the next step would be to locate the eye, nose and mouth. Doing this through code with the help of AI proved difficult, after many failed attempts I agreed to do the next best thing, whhich is estimate the position of these facial parts. This turned out to work and didn't matter too much as the exact components of the face would be remplaced with fruits anyway. Below is FaceTrack #1. Please make sure to allow camera access for the code to work. 
+
+{% raw %}
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/UiWZ6RaDA" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}
+
+Now came the crucial moment, would the code work if instead of simple lines we remplaced them with fruits. Following the same pattern as Fruitface #1 and #2, we created an assets folder and loaded the images in their respective places. But as well as simply placing them, how do you you convince the user that these "fruits" are yours and part of your face ? 
+Well by making them behave the same way your face does. If you open your mouth then the grapes will show that. Ff you close your eyes then the apples will disapear, if you open them super wide then they will grow accordingly !
+
+Below is the first working prototype of Botanic Visage : 
+
+{% raw %}
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/QJ1t9JibQ" width="100%" height="450" frameborder="no"></iframe>
+{% endraw %}
+
+
+

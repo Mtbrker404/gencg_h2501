@@ -38,7 +38,7 @@ Finally we have a working prototype that is starting to ressemeble the masterpie
 Now that we can succefully create a very simple fruit face with the code that we have. Curiosity took over and I started to wonder if I could apply this code to a face tracking system. I had a look at some examples online and determined that the most important aspect would be to successfull be able to outline the face. This was achived after many failed attemps due to my ignorance of using the "index.html" to make proper use of ml5.js which is essential for facial traking. Once that was done, I thought the next step would be to locate the eye, nose and mouth. Doing this through code with the help of AI proved difficult, after many failed attempts I agreed to do the next best thing, whhich is estimate the position of these facial parts. This turned out to work and didn't matter too much as the exact components of the face would be remplaced with fruits anyway. Below is FaceTrack #1. Please make sure to allow camera access for the code to work. 
 
 {% raw %}
-<iframe src="https://editor.p5js.org/matthew.brker.404/full/UiWZ6RaDA" width="100%" height="450" frameborder="no"></iframe>
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/UiWZ6RaDA" width="100%" height="450" frameborder="no" allow="camera;autoplay"></iframe>
 {% endraw %}
 
 Now came the crucial moment, would the code work if instead of simple lines we remplaced them with fruits. Following the same pattern as Fruitface #1 and #2, we created an assets folder and loaded the images in their respective places. But as well as simply placing them, how do you you convince the user that these "fruits" are yours and part of your face ? 

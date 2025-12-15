@@ -47,7 +47,7 @@ Well by making them behave the same way your face does. If you open your mouth t
 Below is the first working prototype of Botanic Visage : 
 
 {% raw %}
-<iframe src="https://editor.p5js.org/matthew.brker.404/full/QJ1t9JibQ" width="100%" height="450" frameborder="no"></iframe>
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/QJ1t9JibQ" width="100%" height="450" frameborder="no" allow="camera;autoplay"></iframe>
 {% endraw %}
 
 

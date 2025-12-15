@@ -26,7 +26,7 @@ Therefore the next logical step was to become familliar with th P5.js web editor
 Once the assets folder was all setup properly, we could now call these images to remplace the simple shapes with images. With a little contourage of the face to bring it to life. Below is Protoype #1 of "FruitFace". 
 
 {% raw %}
-<iframe src="https://editor.p5js.org/matthew.brker.404/full/UiWZ6RaDA" width="100%" height="450" frameborder="no"></iframe>
+<iframe src="https://editor.p5js.org/matthew.brker.404/full/07KMTrS0o" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
 
 Finally we have a working prototype that is starting to ressemeble the masterpiece of Arcimboldo. First thing to do is tweak the overkill of fruits used of the eyebrows and mouth. For the banana we can do this by reducing the amount of times the image is used, increasing the size, centering the banana above the eye and most importantly, rotating it 180 degrees. For the grapes I have the idea to have two facing each other to form some kind of lips. 

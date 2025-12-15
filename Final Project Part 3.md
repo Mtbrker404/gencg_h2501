@@ -1,5 +1,5 @@
 
-# Final Project - Botanic Visage 02
+# Final Project - Botanic Visage 03
 
 Now it does function but its feels very empty and needs refining. But most of all it is lacking fruits and vegetables. As inspiration form the oil painting I decided to use an ear of wheat for the hair. I multiplied it and added them along the foreheard line. Whlist making sure the size was appropriate. Next I decided to add some character to the sides of the face as the black and white lines removed the fruity-ness of the face. The idea was to gather some peppers, one for the left side and one for the right and have them placed so that they followed the curve of the jaw and eneded at the chin. Below is the 2nd iteration of Botanic Visage :
 

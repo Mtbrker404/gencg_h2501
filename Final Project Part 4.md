@@ -9,22 +9,6 @@ Finally here is the final version of Botanic Visage:
 <iframe src="https://editor.p5js.org/matthew.brker.404/full/Blng-wddH" width="100%" height="450" frameborder="no" allow="camera"></iframe>
 {% endraw %}
 
-How it works ? 
-
-faceMesh = ml5.faceMesh({
-  maxFaces: 1,
-  refineLandmarks: false,
-  detectionConfidence: 0.5
-});
-What does it track ? 
-
-Eye corners
-Eyelids
-Nose tip
-Mouth edges
-Jawline
-Forehead
-
 
 What I would do to improve ? 
 

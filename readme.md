@@ -24,6 +24,9 @@ Multiplication is scary
 <iframe src="https://editor.p5js.org/matthew.brker.404/full/vCcoOj-O3" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
 
+
+In this pattern one challenge was to make the idea replayable, as initially the dots would multiplicate and grow in the same direction, creating the same pattern over and over again. So to make this pattern have "infinite" possibilities, the dots had different values they could choose from for "distance from the initial position" and "direction" ( 360 degrees).
+
 ---- Week 03 - Clock & Time ----
 
 Looking at a clock is pretty boring, in fact I'd argue that looking at a clock tic away makes time go even slower. So here is a version that that hopefully makes it go faster, thanks to an added component to look at.
@@ -39,6 +42,8 @@ Tallking about time, its the only thing thats guarteed to kill you, so definitel
 {% raw %}
 <iframe src="https://editor.p5js.org/matthew.brker.404/full/WC39tKvZi" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
+
+In this design, cyclical vs linear time is represented by the time eating away at the human who is subjectively observing it. The linear representation of time ends when the person has ceased to be, but as we see the circual clock fall, it keeps on ticking independently from the person's time ending
 
 ---- Week 05 - Drawing Machines ----
 
@@ -116,6 +121,8 @@ Pixels behave. Paint strokes express.
 No but more seriously, to the naked uninformed eye they are very similar, hence my idea to confuse the two. Please click on the canvas below and press space bar to interact.
 
 Here are some paint strokes expressed by pixels, or is it pixles expressed as paint strokes ? 
+
+Please press on the image and then press "spacebar" to interact with the canvas.
 
 
 {% raw %}
